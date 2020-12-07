@@ -1,7 +1,7 @@
 {
   "name": "@onextech/vercel-env",
   "description": "Set Vercel environment variables with env file",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": "Kongpon Charanwattanakit <jackykongpon@gmail.com>",
   "bin": {
     "vercel-env": "./bin/run"
